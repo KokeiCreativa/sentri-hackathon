@@ -14,4 +14,7 @@ SENTRI adalah virtual assistant berbasis AI yang dirancang untuk membantu masyar
 - Integrasi API (opsional)
 
 ### 📄 Proposal Lengkap:
-[Lihat PDF Proposal SENTRI](./Proposal_SENTRI_Mikael_Douw_FINAL.pdf)
+📄 [Lihat Proposal SENTRI (PDF)](./Proposal_SENTRI_Mikael_Douw_FINAL.pdf)  
+👤 [Lihat CV Mikael Rafael Douw (PDF)](./CV_Mikael_Rafael_Douw.pdf)
+
+
